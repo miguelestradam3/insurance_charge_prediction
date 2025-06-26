@@ -1,5 +1,5 @@
-# Personality prediction
+# Avocados ripeness prediction
 
-### Predict a disease with medical data
+### Prediction based on historical data
 
-Predict personality with information obtained from Kaggle, project done by me.
+Predict the state of a fruit with information obtained from Kaggle, project done by me.

@@ -1,5 +1,5 @@
-# Avocados ripeness prediction
+# Smoking prediction based on personal data
 
 ### Prediction based on historical data
 
-Predict the state of a fruit with information obtained from Kaggle, project done by me.
+Predict if someone smokes based on his region, personal data and insurance cost
